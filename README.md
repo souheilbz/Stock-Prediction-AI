@@ -3,8 +3,10 @@ predicting stock prices in python using DeepLearning.
 
 Here's a Demo of the model:Coca cola share prices
 
+<center>
+  <p>Coca-Cola Co Stock Prices:</p>
+</center>
 
-Coca-Cola Co Stock Prices:
 <img width="910" alt="Screen Shot 2022-03-29 at 7 37 52 PM" src="https://user-images.githubusercontent.com/76651082/160839166-2055afdd-1a9c-405e-b56c-8f611a8c4b1c.png">
 
 Boeing Co Stock Prices:
