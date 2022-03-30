@@ -1,5 +1,5 @@
 # Stock-Prediction-AI
-predicting crypto prices in python using DeepLearning.
+predicting stock prices in python using DeepLearning.
 
 Here's a Demo of the model:
 
