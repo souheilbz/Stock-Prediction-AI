@@ -1,7 +1,7 @@
 # Stock-Prediction-AI
-predicting stock prices in python using DeepLearning.
+predicting stock prices in python with high accuracy using DeepLearning.
 
-Here's a Demo of the model:Coca cola share prices
+Here's a Demo of the model:
 
 
   Coca-Cola Co Stock Prices:
